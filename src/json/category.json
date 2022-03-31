@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "burger",
+    "category": ["breakfast", "lunch"]
+  },
+  {
+    "id": 2,
+    "name": "pizza",
+    "category": ["breakfast", "lunch"]
+  },
+  {
+    "id": 3,
+    "name": "cake",
+    "category": ["breakfast", "lunch"]
+  },
+  {
+    "id": 4,
+    "name": "pasta",
+    "category": ["breakfast", "lunch"]
+  },
+  {
+    "id": 5,
+    "name": "noodle",
+    "category": ["breakfast", "lunch"]
+  },
+  {
+    "id": 6,
+    "name": "sweets",
+    "category": ["breakfast", "lunch"]
+  },
+  {
+    "id": 7,
+    "name": "icecreams",
+    "category": ["breakfast", "lunch"]
+  },
+  {
+    "id": 8,
+    "name": "cookie",
+    "category": ["breakfast", "lunch"]
+  }
+]

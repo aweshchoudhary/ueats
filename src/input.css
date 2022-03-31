@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+
+* {
+  font-family: "Poppins", calibri;
+}
+
+.status-card {
+  width: calc(50% - 10px);
+}
+.horizontal-card {
+  width: calc(100% / 3 - 0.5rem);
+}
+.main-card {
+  width: calc(100% / 4 - 0.5rem);
+}
+
+@media screen and (max-width: 768px) {
+  .horizontal-card {
+    width: calc(100% / 2 - 0.5rem);
+  }
+  .main-card {
+    width: 100%;
+  }
+}
+
+@tailwind utilities;
